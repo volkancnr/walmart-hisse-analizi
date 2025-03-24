@@ -60,11 +60,17 @@ Görüldüğü gibi genel olarak karda kapatıldığı gözlemlenmektedir bu da 
 
 SONUÇLAR:
 •	Yükseliş trendi mevcut olup, 2020 sonrası ve özellikle 2024 başında güçlü bir yükseliş yakalamıştır.
+
 •	Risk faktörleri arasında ani fiyat hareketleri ve ekonomik kriz dönemlerindeki sert düşüşler öne çıkmaktadır.
+
 •	2020 yılı sonrası en sert düşüşün görüldüğü 2022 Mayıs haziran aylarında gerçekleşmiştir.
+
 •	Yakın zamanda en göze çarpan yükseliş 2024'te +%72.2 olarak gerçekleşirken
+
 Yakın tarihte göze çarpan düşüşü 2015 yılını %26.7 lik zararla kapatması olarak görülmüştür
+
 •	50 ve 200 günlük hareketli ortalamalar yukarı yönlü trend gösterirken, fiyat son dönemde bu ortalamaların üzerinde seyretmektedir.
+
 •	Fiyat göstergeleri arasında yüksek, işlem hacmi ile fiyat arasında zayıf korelasyon bulunmaktadır.
 
 Walmart hisse senedinde genel olarak bir yükseliş trendi bulunmaktadır yapılan görsel analizlere dayanarak bu trende göre uzun vadede yatırım olacağı sunulmakta ancak 2020 sonrası yüksek volatilite nedeniyle kısa vadeli yatırım risklidir. 
