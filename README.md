@@ -1,3 +1,5 @@
+(net görseller word dosyasında kayıtlı zip klasörünü indirerek ulaşabilirsiniz)
+
 Bu projede Python kullanarak Walmart hisse senedi fiyatları üzerinde veri analizi ve zaman serisi modellemesi gerçekleştirilmiştir. Çalışmada yfinance API ile hisse senedi verileri çekilmiş, Pandas ve NumPy ile veri işleme yapılmış, Matplotlib ve Seaborn ile görselleştirme gerçekleştirilmiştir. Trend, mevsimsellik ve oynaklık analizleri için Statsmodels, SciPy ve TA-Lib gibi kütüphaneler kullanılmıştır. Veriler 2000 sonrası dönemi kapsamakta olup, trend analizi, mevsimsellik, artık bileşen analizi ve oynaklık (standart sapma) gibi önemli finansal göstergeler incelenmiştir.
  Walmart Hisse Senedi Fiyat Veri Seti ve Keşifsel Veri Analizi (EDA)
 
