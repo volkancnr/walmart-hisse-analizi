@@ -59,6 +59,7 @@ Bu grafik yılların ilk ve son fiyatlarını baz alarak yapıldığı için yı
 Görüldüğü gibi genel olarak karda kapatıldığı gözlemlenmektedir bu da uzun vadeli yatırımcılar için pozitif bir çıkarımdır.
 
 SONUÇLAR:
+
 •	Yükseliş trendi mevcut olup, 2020 sonrası ve özellikle 2024 başında güçlü bir yükseliş yakalamıştır.
 
 •	Risk faktörleri arasında ani fiyat hareketleri ve ekonomik kriz dönemlerindeki sert düşüşler öne çıkmaktadır.
